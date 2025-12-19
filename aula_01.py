@@ -38,9 +38,16 @@ class Mamifero:
     def andar(self):
         print("andar")
 
+# juntando a classe com a classe pai
 class Humano(Mamifero):
     def falar(self):
         print("falar")
+
+# juntando a classe com a classe pai2
+class Gato(Mamifero):
+    def miar(self):
+        print("miar")
+
 
 mamifero = Mamifero()
 mamifero.andar()
@@ -48,3 +55,7 @@ mamifero.andar()
 carlos = Humano()
 carlos.andar()
 carlos.falar()
+
+banguela = Gato()
+banguela.miar()
+banguela.andar()
