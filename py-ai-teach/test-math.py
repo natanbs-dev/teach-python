@@ -1,6 +1,3 @@
-from idlelib.config_key import WHITESPACE_KEYS
-
-
 def soma():
     n1= float(input("n1: "))
     n2 = float(input("n2:"))
@@ -22,7 +19,7 @@ def percentual_desconto():
           f"\nlogo, o valor da porcentagem é {porc}"
           f"\nSendo assim, valor com o desconto é de R${porc_total}")
 
-
+    print("====" * 50)
 def operacao():
     opt = 0
 
@@ -31,7 +28,7 @@ def operacao():
         print("(2) PORCENTAGEM")
         print("(9) para sair")
         print("===" * 30)
-        opt = int(input("\ndigite o número escolhido"))
+        opt = int(input("\ndigite o número escolhido== "))
 
         if opt == 1:
             soma()
