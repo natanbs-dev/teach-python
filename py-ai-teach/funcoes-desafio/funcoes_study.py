@@ -1,7 +1,7 @@
-def saudacao(nome, idade):
+def saudacoes(nome, idade):
     print(f"olá {nome} idade sendo {idade}" )
 
-#saudacao('carlos', 26)
+#saudacoes('carlos', 26)
  
 def somar(n1, n2):
     soma= n1 + n2
