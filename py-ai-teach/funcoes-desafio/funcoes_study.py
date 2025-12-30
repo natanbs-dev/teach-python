@@ -14,3 +14,7 @@ def calcular_desconto(preco, porcentagem):
 
 valor_final = calcular_desconto(1010, 25)
 print(f'o valor final com desconto é R${valor_final:.2f}')
+
+def verificar_maioridade(idade):
+        return idade >=18
+        
