@@ -2,7 +2,7 @@
 Alt + u/i/o/p
 
 ## close windows
-Alt + Shift + q
+Alt + q
 
 ## move windows in direction
 Alt + Shift + h/j/k/l
@@ -16,20 +16,6 @@ Alt + h #right
 ## Mudança de Foco (Foco de Janela)
 
 Essas teclas permitem mover o foco para outra janela.
-
-- **Focar na janela à esquerda**: `alt+h` ou `alt+esquerda`
-- **Focar na janela à direita**: `alt+l` ou `alt+direita`
-- **Focar na janela acima**: `alt+k` ou `alt+cima`
-- **Focar na janela abaixo**: `alt+j` ou `alt+baixo`
-
-## Mover Janela
-
-Essas teclas permitem mover a janela focada em uma direção.
-
-- **Mover janela à esquerda**: `alt+shift+h` ou `alt+shift+esquerda`
-- **Mover janela à direita**: `alt+shift+l` ou `alt+shift+direita`
-- **Mover janela acima**: `alt+shift+k` ou `alt+shift+cima`
-- **Mover janela abaixo**: `alt+shift+j` ou `alt+shift+baixo`
 
 ## Redimensionar Janela (Modo de Redimensionamento)
 
