@@ -23,11 +23,11 @@ def dirigir():
     #print(verificador)
 
     if verificador == True:
-        print("você está nos formes das leis")
+        print("você está nos conformes das leis")
     elif not verificador == False:
         print("vish... se a policia te pegar andando de carro sem carteira.....")
 
-#dirigir()
+dirigir()
 
 def verificar_login():
     user = str(input("username: "))
